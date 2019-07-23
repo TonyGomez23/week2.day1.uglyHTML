@@ -1,0 +1,61 @@
+html{
+    color: whitesmoke;
+}
+
+#Generic{
+    font-family: 'Tangerine', cursive;
+    font-size: 72px;
+}
+
+body{
+    background-color: rgb(53, 53, 53);
+    padding: 50px;
+}
+
+.top{
+    text-align: center;
+}
+
+h3{
+    font-family: 'Unica One', cursive;
+    font-size: 26px;
+}
+
+h2{
+    font-family: 'Unica One', cursive;
+    margin: 16px 16px;
+}
+
+.watch_container{
+    background-color: #1A1818;
+    border: #FDEFA6 solid 2px;
+    border-radius: 13px;
+    padding: 10px;
+    margin: 15px;
+
+}
+
+.watch{
+   float: left;
+   height: 200px;
+   width: auto;
+}
+
+.watch_description{
+    font-family: 'Dosis', sans-serif;
+    font-size: 16px;
+    margin: 10px 10px;
+}
+
+.watch_mech{
+    float: left;
+    width: auto;
+    height: 200px;
+}
+
+.watch_pocket{
+    float: left;
+    width: auto;
+    height: 200px;
+    margin: 10px 10px;
+}
